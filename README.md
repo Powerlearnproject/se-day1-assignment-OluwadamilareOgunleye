@@ -27,7 +27,6 @@ A linear, sequential approach where each phase must be completed before moving t
 Pros: Clear structure, well-documented, easy to manage.
 
 Cons: Inflexible, difficult to incorporate changes.
-
 Best Use Cases: Government projects, safety-critical systems (e.g., medical software).
 Agile Methodology
 
